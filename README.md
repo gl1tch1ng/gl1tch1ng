@@ -1,24 +1,97 @@
 <h1 align="center">Hi 👋, I'm Mel Magdaraog</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gl1tch1ng&label=Profile%20views&color=0e75b6&style=flat" alt="gl1tch1ng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gl1tch1ng" alt="gl1tch1ng" /></a> </p>
+<h3 align="center">
+BS Information Systems Student | Aspiring Full-Stack Developer |
+AI & Technology Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **laravel**
-
-- 💬 Ask me about **A.I.**
-
-- 📫 How to reach me **magdaraogem@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mel magdaraog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mel magdaraog" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gl1tch1ng&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gl1tch1ng&show_icons=true&locale=en&layout=compact" alt="gl1tch1ng" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gl1tch1ng&show_icons=true&locale=en" alt="gl1tch1ng" /></p>
+I'm a Bachelor of Science in Information Systems (BSIS) student from the Philippines who enjoys building software, exploring new technologies, and solving problems through technology.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gl1tch1ng&" alt="gl1tch1ng" /></p>
+I am currently working toward becoming a Full-Stack Developer while continuously improving my skills in web development, programming, networking, and artificial intelligence.
+
+I enjoy learning new technologies, experimenting with Linux, and creating projects that help solve real-world problems.
+
+### 🚀 Current Focus
+- 🌱 Learning **Laravel**
+- 🤖 Exploring **Artificial Intelligence**
+- 💻 Building Full-Stack Development Skills
+- 🌐 Studying Networking and Information Systems
+
+### 🎯 Goals
+- Become a Full-Stack Developer
+- Build impactful software solutions
+- Contribute to open-source projects
+- Continue learning emerging technologies
+
+---
+
+## 🛠 Featured Project
+
+### 🧴 Allinderma
+An AI-powered skincare platform designed for the Philippine market that provides:
+
+- Personalized skin analysis
+- AI-assisted skincare recommendations
+- Routine generation
+- Computer vision integration
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/YOUR_PROFILE">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" />
+</a>
+</p>
+
+📧 Email: **magdaraogem@gmail.com**
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,php,laravel,python,java,mysql,sqlite,linux,figma" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gl1tch1ng&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gl1tch1ng&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gl1tch1ng&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gl1tch1ng&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+### 💡 Fun Facts
+
+- 🎧 I enjoy listening to lofi hip-hop while studying or coding
+- 🐧 I enjoy experimenting with Linux systems
+- 🎮 I occasionally play games during my free time
+- 🧠 I enjoy learning about technology and AI
