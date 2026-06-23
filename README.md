@@ -35,14 +35,12 @@ I enjoy learning new technologies, experimenting with Linux, and creating projec
 
 ## 📫 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
-  </a>
+  <a href="https://www.facebook.com/mel.magdaraog.52/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>&nbsp;
   <a href="mailto:magdaraogem@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
 </p>
 
