@@ -47,9 +47,19 @@ An AI-powered skincare platform designed for the Philippine market that provides
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://facebook.com/YOUR_PROFILE">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+
+<a href="mailto:magdaraogem@gmail.com">
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
