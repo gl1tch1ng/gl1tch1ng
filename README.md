@@ -70,14 +70,6 @@ I enjoy learning new technologies, experimenting with Linux, and creating projec
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gl1tch1ng&theme=onedark&row=1&column=7" />
-</p>
-
----
-
 ### 💡 Fun Facts
 
 - 🎧 I enjoy listening to lofi hip-hop while studying or coding
