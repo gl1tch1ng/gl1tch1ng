@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mel Magdaraog</h1>
-
-<h1 align="center">Hi 👋, I'm Mel Magdaraog</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mel Magdaraog
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BSIS+Student;Aspiring+Full-Stack+Developer;AI+%26+Technology+Enthusiast;Building+Projects+That+Matter" />
