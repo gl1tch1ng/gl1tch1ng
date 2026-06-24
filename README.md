@@ -15,7 +15,7 @@ AI & Technology Enthusiast
 
 I'm a Bachelor of Science in Information Systems (BSIS) student from the Philippines who enjoys building software, exploring new technologies, and solving problems through technology.
 
-I am currently working toward becoming a Full-Stack Developer while continuously improving my skills in web development, programming, networking, and artificial intelligence.
+I am currently working toward becoming a Full-Stack Developer while continuously improving my skills in web development, programming, and artificial intelligence.
 
 I enjoy learning new technologies, experimenting with Linux, and creating projects that help solve real-world problems.
 
@@ -23,7 +23,6 @@ I enjoy learning new technologies, experimenting with Linux, and creating projec
 - 🌱 Learning **Laravel**
 - 🤖 Exploring **Artificial Intelligence**
 - 💻 Building Full-Stack Development Skills
-- 🌐 Studying Networking and Information Systems
 
 ### 🎯 Goals
 - Become a Full-Stack Developer
