@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mel Magdaraog</h1>
 
+<h1 align="center">Hi 👋, I'm Mel Magdaraog</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BSIS+Student;Aspiring+Full-Stack+Developer;AI+%26+Technology+Enthusiast;Building+Projects+That+Matter" />
+</p>
+
 <h3 align="center">
 BS Information Systems Student | Aspiring Full-Stack Developer |
 AI & Technology Enthusiast
